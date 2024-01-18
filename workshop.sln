@@ -7,9 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workshop.coninterf", "works
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workshop.tests", "workshop.tests\workshop.tests.csproj", "{6C4FF9B0-DAF3-4C9A-8CE9-8FE8ED8E7F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workshop.polyconsole", "workshop.polyconsole\workshop.polyconsole.csproj", "{CCEE6A53-2D37-4A0B-8155-D694561B1E08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workshop.polyconsole", "workshop.polyconsole\workshop.polyconsole.csproj", "{CCEE6A53-2D37-4A0B-8155-D694561B1E08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workshop.inheritcons", "workshop.inheritcons\workshop.inheritcons.csproj", "{C62805AA-5211-4D33-810F-FE88CB922CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workshop.inheritcons", "workshop.inheritcons\workshop.inheritcons.csproj", "{C62805AA-5211-4D33-810F-FE88CB922CFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A3E5A0D-CEAE-487D-9DD4-B7CE3C86A9C4}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
